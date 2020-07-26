@@ -12,6 +12,35 @@ and are simply an extra line break in the text.
 None of the files have yet been proof read. Contributions are welcome for any
 errors that may have snuck in during the conversion process.
 
+* Generate a single file
+For performance purposes, and to easier track changes in git, the files are
+split into individual books. If you would rather have one big file containing
+the whole Bible, follow the steps below:
+
+1. Make sure that you are in the directory containing all the individual books
+   as well as this README.md file.
+
+2. Execute the script.
+   #+begin_code sh
+$ sh generate_single_file.sh
+#+end_code
+
+3. The following output should be shown:
+   #+begin_code sh
+Removing any old KJV.org file.
+Combining all source files.
+Moving all chapter markers one step to the right.
+Converting TITLEs to headers.
+All done.
+#+end_code
+
+4. Now you have a brand new file named "KJV.org" containing all the individual
+   books.
+
+*IMPORTANT:* The script is stupid and careless. It will overwrite any existing
+file. Make sure to move your file to another location before adding any personal
+notes, or making any other changes to the file that you want to save.
+  
 * Acknowledgements
 
 Most of the heavy lifting was done using [[github:alphapapa/sword-to-org][sword-to-org]]. Kudos!
