@@ -21,18 +21,14 @@ the whole Bible, follow the steps below:
    as well as this README.md file.
 
 2. Execute the script.
-   #+begin_code sh
-$ sh generate_single_file.sh
-#+end_code
+~$ sh generate_single_file.sh~
 
 3. The following output should be shown:
-   #+begin_code sh
-Removing any old KJV.org file.
-Combining all source files.
-Moving all chapter markers one step to the right.
-Converting TITLEs to headers.
-All done.
-#+end_code
+~Removing any old KJV.org file.~
+~Combining all source files.~
+~Moving all chapter markers one step to the right.~
+~Converting TITLEs to headers.
+~All done.~
 
 4. Now you have a brand new file named "KJV.org" containing all the individual
    books.
