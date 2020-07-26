@@ -23,11 +23,7 @@ the whole Bible, follow the steps below:
 2. Execute the script.
 ~$ sh generate_single_file.sh~
 
-3. The following output should be shown:
-~Removing any old KJV.org file.~
-~Combining all source files.~
-~Moving all chapter markers one step to the right.~
-~Converting TITLEs to headers.
+3. At the end, the following line should be shown:
 ~All done.~
 
 4. Now you have a brand new file named "KJV.org" containing all the individual
