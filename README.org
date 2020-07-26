@@ -1,0 +1,18 @@
+#+TITLE: kjv-org
+
+* Introduction
+
+A collection of files containing the Authorized King James version of the Bible
+in org format. Use these together with Emacs org-mode.
+
+Some formatting has been carried over. Namely /italics/ for words added by the
+translators. As far as possible, the paragraph breaks have also been preserved
+and are simply an extra line break in the text.
+
+None of the files have yet been proof read. Contributions are welcome for any
+errors that may have snuck in during the conversion process.
+
+* Acknowledgements
+
+Most of the heavy lifting was done using [[github:alphapapa/sword-to-org][sword-to-org]]. Kudos!
+https://github.com/alphapapa/sword-to-org
