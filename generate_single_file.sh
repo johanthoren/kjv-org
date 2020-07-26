@@ -1,10 +1,41 @@
 #!/bin/sh
 
+usage="$(basename "$0") [-h] -- Combine all org files in the current directory."
+
+if [ -n "$1" ]; then
+    case $1 in
+        -h)
+            echo "$usage"
+            exit 0
+            ;;
+        *)
+            echo "Invalid option or argument."
+            echo "Usage:"
+            echo "$usage"
+            exit 1
+            ;;
+    esac
+fi
+
 OUT="KJV.org"
 
-echo "Removing any old KJV.org file."
 if [ -f "$OUT" ]; then
-    rm "$OUT" || exit 1
+    read -r -p "The file $OUT already exits. Overwrite? [y/N] " input
+
+    case $input in
+        [yY][eE][sS]|[yY])
+            echo "Removing existing $OUT."
+            rm "$OUT" || exit 1
+            ;;
+        [nN][oO]|[nN]|"")
+            echo "Aborting."
+            exit 0
+            ;;
+        *)
+            echo "Invalid input..."
+            exit 1
+            ;;
+    esac
 fi
 
 echo "Combining all source files."

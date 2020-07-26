@@ -29,9 +29,9 @@ the whole Bible, follow the steps below:
 4. Now you have a brand new file named "KJV.org" containing all the individual
    books.
 
-*IMPORTANT:* The script is stupid and careless. It will overwrite any existing
-file. Make sure to move your file to another location before adding any personal
-notes, or making any other changes to the file that you want to save.
+*IMPORTANT:* The script includes an option to overwrite an existing file. Make
+sure to move your file to another location if you plan on making notes, or
+adding changes to the file, so that you don't overwrite it in the future.
   
 * Acknowledgements
 
