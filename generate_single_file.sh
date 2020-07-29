@@ -46,11 +46,17 @@ for file in *.org; do
     fi
 done
 
-echo "Moving all chapter markers one step to the right."
-sed -i'' 's/^\*\ /\*\*\ /g' "$OUT"
-echo "Converting TITLEs to headers."
-sed -i'' 's/^#+TITLE\:\ /\*\ /g' "$OUT"
+echo "Moving all chapter markers two steps to the right."
+sed -i'' 's/^\*\ /\*\*\*\ /g' "$OUT"
+echo "Converting TITLEs."
+sed -i'' 's/^#+TITLE\:\ /\*\*\ /g' "$OUT"
+echo "Adding OT and NT markers."
+sed -i'' '1i\* Old Testament' "$OUT"
+sed -i'' '/^\*\* Matthew/i\* New Testament' "$OUT"
 sed -i'' '1i\\' "$OUT"
+echo "Adding file header."
+sed -i'' '1i\#+LaTeX: \\setcounter{secnumdepth}{0}' "$OUT"
+sed -i'' '1i\#+OPTIONS: author:nil date:nil toc:2' "$OUT"
 sed -i'' '1i\#+STARTUP: overview' "$OUT"
 sed -i'' '1i\#+SUBTITLE: King James Version (Authorized)' "$OUT"
 sed -i'' '1i\#+TITLE: The Holy Bible' "$OUT"
