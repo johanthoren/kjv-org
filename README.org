@@ -32,7 +32,7 @@ the whole Bible, follow the steps below:
 *IMPORTANT:* The script includes an option to overwrite an existing file. Make
 sure to move your file to another location if you plan on making notes, or
 adding changes to the file, so that you don't overwrite it in the future.
-  
+
 * Acknowledgements
 
 Most of the heavy lifting was done using [[github:alphapapa/sword-to-org][sword-to-org]]. Kudos!
