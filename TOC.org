@@ -1,5 +1,4 @@
 #+title: Table of Contents
-#+author: jpstone
 
 1. [[file:01_GEN.org][Genesis]]
 2. [[file:02_EXO.org][Exodus]]
