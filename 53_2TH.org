@@ -1,4 +1,5 @@
 #+TITLE: 2 Thessalonians
+#+AUTHOR_NOTE: The second epistle to the Thessalonians was written from Athens
 * 1
 1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 2. Grace unto you, and peace, from God our Father and the Lord Jesus Christ.
@@ -52,4 +53,4 @@
 16. Now the Lord of peace himself give you peace always by all means. The Lord /be/ with you all.
 
 17. The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
-18. The grace of our Lord Jesus Christ /be/ with you all. Amen.  The second /epistle/ to the Thessalonians was written from Athens.
+18. The grace of our Lord Jesus Christ /be/ with you all. Amen.

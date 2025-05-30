@@ -1,4 +1,5 @@
 #+TITLE: Ephesians
+# Written from Rome unto the Ephesians by Tychicus
 * 1
 1. Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 2. Grace /be/ to you, and peace, from God our Father, and /from/ the Lord Jesus Christ.
@@ -168,4 +169,4 @@
 22. Whom I have sent unto you for the same purpose, that ye might know our affairs, and /that/ he might comfort your hearts.
 
 23. Peace /be/ to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
-24. Grace /be/ with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus.
+24. Grace /be/ with all them that love our Lord Jesus Christ in sincerity. Amen.

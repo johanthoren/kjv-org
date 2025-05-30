@@ -1,4 +1,5 @@
 #+TITLE: Hebrews
+#+AUTHOR_NOTE: Written to the Hebrews from Italy by Timothy
 * 1
 1. God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
 2. Hath in these last days spoken unto us by /his/ Son, whom he hath appointed heir of all things, by whom also he made the worlds;
@@ -319,4 +320,4 @@
 22. And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.
 23. Know ye that /our/ brother Timothy is set at liberty; with whom, if he come shortly, I will see you.
 24. Salute all them that have the rule over you, and all the saints. They of Italy salute you.
-25. Grace /be/ with you all. Amen.  Written to the Hebrews from Italy by Timothy.
+25. Grace /be/ with you all. Amen.

@@ -1,4 +1,5 @@
 #+TITLE: Philippians
+#+AUTHOR_NOTE: Written to the Philippians from Rome by Epaphroditus
 * 1
 1. Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 2. Grace /be/ unto you, and peace, from God our Father, and /from/ the Lord Jesus Christ.
@@ -112,4 +113,4 @@
 
 21. Salute every saint in Christ Jesus. The brethren which are with me greet you.
 22. All the saints salute you, chiefly they that are of Caesar's household.
-23. The grace of our Lord Jesus Christ /be/ with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus.
+23. The grace of our Lord Jesus Christ /be/ with you all. Amen.

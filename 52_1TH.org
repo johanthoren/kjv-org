@@ -1,4 +1,5 @@
 #+TITLE: 1 Thessalonians
+#+AUTHOR_NOTE: The first epistle unto the Thessalonians was written from Athens
 * 1
 1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians /which is/ in God the Father and /in/ the Lord Jesus Christ: Grace /be/ unto you, and peace, from God our Father, and the Lord Jesus Christ.
 2. We give thanks to God always for you all, making mention of you in our prayers;
@@ -97,4 +98,4 @@
 
 26. Greet all the brethren with an holy kiss.
 27. I charge you by the Lord that this epistle be read unto all the holy brethren.
-28. The grace of our Lord Jesus Christ /be/ with you. Amen.   The first /epistle/ unto the Thessalonians was written from Athens.
+28. The grace of our Lord Jesus Christ /be/ with you. Amen.

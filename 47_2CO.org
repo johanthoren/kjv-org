@@ -1,4 +1,5 @@
 #+TITLE: 2 Corinthians
+#+AUTHOR_NOTE: Written from Philippi, a city of Macedonia, by Titus and Lucas
 * 1
 1. Paul, an apostle of Jesus Christ by the will of God, and Timothy /our/ brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 2. Grace /be/ to you and peace from God our Father, and /from/ the Lord Jesus Christ.
@@ -279,4 +280,4 @@
 12. Greet one another with an holy kiss.
 
 13. All the saints salute you.
-14. The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, /be/ with you all. Amen.   The second /epistle/ to the Corinthians was written from Philippi, /a city/ of Macedonia, by Titus and Lucas.
+14. The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, /be/ with you all. Amen.

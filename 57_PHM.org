@@ -1,4 +1,5 @@
 #+TITLE: Philemon
+#+AUTHOR_NOTE: Written from Rome to Philemon, by Onesimus, a servant
 * 1
 1. Paul, a prisoner of Jesus Christ, and Timothy /our/ brother, unto Philemon our dearly beloved, and fellowlabourer,
 2. And to /our/ beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
@@ -27,4 +28,4 @@
 
 23. There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 24. Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
-25. The grace of our Lord Jesus Christ /be/ with your spirit. Amen.  Written from Rome to Philemon, by Onesimus, a servant.
+25. The grace of our Lord Jesus Christ /be/ with your spirit. Amen.
